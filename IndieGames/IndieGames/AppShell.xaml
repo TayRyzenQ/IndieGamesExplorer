@@ -1,0 +1,32 @@
+<Shell
+    x:Class="IndieGames.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:IndieGames.Pages"
+    xmlns:local="clr-namespace:IndieGames">
+
+    <FlyoutItem Title="Inicio" Icon="home.png">
+        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Hollow Knight">
+        <ShellContent ContentTemplate="{DataTemplate pages:HollowKnightPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Celeste">
+        <ShellContent ContentTemplate="{DataTemplate pages:CelestePage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Stardew Valley">
+        <ShellContent ContentTemplate="{DataTemplate pages:StardewValleyPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Hades">
+        <ShellContent ContentTemplate="{DataTemplate pages:HadesPage}" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Undertale">
+        <ShellContent ContentTemplate="{DataTemplate pages:UndertalePage}" />
+    </FlyoutItem>
+
+</Shell>
