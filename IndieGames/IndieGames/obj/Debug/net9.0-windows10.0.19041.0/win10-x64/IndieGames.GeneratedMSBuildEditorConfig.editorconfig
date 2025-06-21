@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IndieGames
-build_property.ProjectDir = C:\Users\tayna\source\repos\IndieGamesExplorer\IndieGames\IndieGames\
+build_property.ProjectDir = c:\Users\eliza\source\repos\IndieGamesExplorer\IndieGames\IndieGames\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,43 +22,55 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/App.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/AppShell.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/MainPage.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Pages/HollowKnightDetailPage.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Pages/HollowKnightDetailPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.Pages.HollowKnightDetailPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HollowKnightDetailPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HollowKnightDetailPage.xaml
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Pages/HollowKnightPage.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Pages/HollowKnightPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.Pages.HollowKnightPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HollowKnightPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HollowKnightPage.xaml
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Resources/Styles/Colors.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Pages/UndertaleDetailPgae.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.Pages.UndertaleDetailPgae.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\UndertaleDetailPgae.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\UndertaleDetailPgae.xaml
+
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Pages/UndertalePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.Pages.UndertalePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\UndertalePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\UndertalePage.xaml
+
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/tayna/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Resources/Styles/Styles.xaml]
+[c:/Users/eliza/source/repos/IndieGamesExplorer/IndieGames/IndieGames/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = IndieGames.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
