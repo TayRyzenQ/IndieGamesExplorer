@@ -1,0 +1,31 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:model="clr-namespace:IndieGames.Models"
+             x:Class="IndieGames.Pages.HollowKnightDetailPage"
+             Title="Detalle del Personaje">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="{Binding Name}" 
+                   FontSize="26" 
+                   FontAttributes="Bold" 
+                   HorizontalOptions="Center" />
+
+            <Image Source="{Binding ImageUrl}" 
+                   HeightRequest="250" 
+                   HorizontalOptions="Center" />
+
+            <Label Text="{Binding Date}" 
+                   FontSize="18" 
+                   FontAttributes="Italic"
+                   TextColor="Gray"
+                   HorizontalOptions="Center" />
+
+            <Label Text="{Binding Details}" 
+                   FontSize="18"
+                   TextColor="Black" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
