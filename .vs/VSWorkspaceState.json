@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\IndieGames"
+    "\\IndieGames",
+    "\\IndieGames\\IndieGames",
+    "\\IndieGames\\IndieGames\\Data",
+    "\\IndieGames\\IndieGames\\Pages"
   ],
-  "SelectedNode": "\\IndieGames\\IndieGames.sln",
+  "SelectedNode": "\\IndieGames\\IndieGames\\Data",
   "PreviewInSolutionExplorer": false
 }
