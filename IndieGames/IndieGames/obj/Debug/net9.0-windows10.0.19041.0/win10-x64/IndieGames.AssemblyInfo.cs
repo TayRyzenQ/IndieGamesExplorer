@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IndieGames")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+402ed924966646d99c00787caddbbf7cd697addf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+36bbb5614a3e973ccfdc9e14fe6fd3901cc5de1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IndieGames")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IndieGames")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

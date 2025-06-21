@@ -26222,24 +26222,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tayna\\.nuget\\packages\\": {},
+    "C:\\Users\\luivs\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tayna\\source\\repos\\IndieGamesExplorer\\IndieGames\\IndieGames\\IndieGames.csproj",
+      "projectUniqueName": "D:\\Documentos\\IndieGamesExplorer\\IndieGames\\IndieGames\\IndieGames.csproj",
       "projectName": "IndieGames",
-      "projectPath": "C:\\Users\\tayna\\source\\repos\\IndieGamesExplorer\\IndieGames\\IndieGames\\IndieGames.csproj",
-      "packagesPath": "C:\\Users\\tayna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tayna\\source\\repos\\IndieGamesExplorer\\IndieGames\\IndieGames\\obj\\",
+      "projectPath": "D:\\Documentos\\IndieGamesExplorer\\IndieGames\\IndieGames\\IndieGames.csproj",
+      "packagesPath": "C:\\Users\\luivs\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\IndieGamesExplorer\\IndieGames\\IndieGames\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tayna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luivs\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
